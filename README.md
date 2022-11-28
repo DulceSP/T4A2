@@ -11,3 +11,6 @@ Los cuatro ejercicios deberán estar dentro de un solo proyecto de Java en NetBe
 Sube tu código fuente a GitHub y comparte el link en esta actividad.
 
 NO USAR LA METODOLOGÍA DE LAS 6D.
+
+ARCHIVO
+https://github.com/DulceSP/T4A2/blob/main/T4A2_22TE0032.zip
